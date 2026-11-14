@@ -1,14 +1,13 @@
 # Cześć, jestem Kuba
 
-Buduję i porządkuję rzeczy z pomocą Hermesa.
+Tworzę projekty i automatyzacje.
 
 ## Teraz ogarniam głównie
+
 - automatyzacje
-- GitHub i workflow techniczny
+- GitHub i organizację pracy
 - eksperymenty i małe projekty
 
-## Repo startowe
-- [`hermes-workspace`](https://github.com/jakubrojewski/hermes-workspace) — prywatna przestrzeń robocza do pracy z Hermesem
-
 ## Status
-Profil został przygotowany jako prosty punkt startowy i będzie uzupełniany wraz z kolejnymi projektami.
+
+Profil będzie uzupełniany wraz z kolejnymi projektami.
